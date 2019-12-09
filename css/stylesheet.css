@@ -1,0 +1,55 @@
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+.intro{
+    width: 1280px;
+    background-color: #2B709F;
+    color: #96D9ED;
+    padding: 50px;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+.animal_wiki{
+    width: 1280px;
+    background-color: #3FA5D1;
+    color: #2B709F;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 35px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    filter: opacity(1)
+}
+.animal_wiki:hover{
+    filter: opacity(0.9)}
+img{
+    width: 800px;
+    
+}
+.small_site{
+    width: 1280px;
+    background-color: #61CAE5;
+    color: #2B709F;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    filter: opacity(1)
+}
+.small_site:hover{
+    filter: opacity(0.8)}
+.mobile_app{
+    width: 1280px;
+    background-color: #96D9ED;
+    color: #2B709F;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 100px;
+    filter: opacity(1)
+}
+.mobile_app:hover{
+    filter: opacity(0.8)}
